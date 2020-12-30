@@ -57,14 +57,24 @@ flag{94153}
 
 ## Question - 11
 Another distraction the code was hidden inside robots.txt not image 
+you will get rot13 hash
 flag{CaptainLatvia}
-## Question - 12
 
+## Question - 12
+good ONe! md5 hash was hidden inside cookies
+just convert it 
+flag{Brooklyn}
 
 ## Question - 13
-
-
+The js file based on http://www.jsfuck.com/ read it 
+decode - https://enkhee-osiris.github.io/Decoder-JSFuck/
+Flag{FluffyBoi}
 ## Question - 14
-
-
+Little hard at once 
+decode given wave file with deepSound 
+you will get image use tool - https://stegonline.georgeom.net/image and change image options to LSB half 
+Flag{VultureEye}
 ## Question - 15
+another audio stegnography 
+use sonic visualiser this time add spectogram for both channels
+Flag{IsThisTheEnd}
