@@ -16,7 +16,7 @@ simply open the image with notepad and you will find this flag <br>
 F l a g { E X I F i s C o o l }<br>
 
 ## Question - 3
-Provided with an image of pigpen cypher - https://www.dcode.fr/pigpen-cipher<br>
+Provided with an image of pigpen cipher - https://www.dcode.fr/pigpen-cipher<br>
 flag{HOLTISTHEIMPOSTER}<br>
 <br>
 ## Question - 4
@@ -58,7 +58,7 @@ flag{94153}
 
 ## Question - 11
 Another distraction the code was hidden inside robots.txt not image <br>
-you will get rot13 hash<br>
+you will get rot13 cipher<br>
 flag{CaptainLatvia}
 
 ## Question - 12
