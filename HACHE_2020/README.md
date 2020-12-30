@@ -62,7 +62,7 @@ you will get rot13 cipher<br>
 flag{CaptainLatvia}
 
 ## Question - 12
-good ONe! md5 hash was hidden inside cookies<br>
+good ONe! md5 was hidden inside cookies<br>
 just convert it <br>
 flag{Brooklyn}
 
@@ -72,10 +72,10 @@ decode - https://enkhee-osiris.github.io/Decoder-JSFuck/<br>
 Flag{FluffyBoi}
 ## Question - 14
 Little hard at once <br>
-decode given wave file with deepSound <br>
+decode given file with deepSound <br>
 you will get image use tool - https://stegonline.georgeom.net/image and change image options to LSB half <br>
 Flag{VultureEye}
 ## Question - 15
-another audio stegnography <br>
-use sonic visualiser this time add spectogram for both channels<br>
+another audio steganography <br>
+use sonic visualiser this time add spectrogram for both channels<br>
 Flag{IsThisTheEnd}
